@@ -1,0 +1,11 @@
+==========================================================================
+BIRLESIK — hipotez YON verir, cukur ARAC olur.
+Cukurun degeri: ham degisim degil, HIPOTEZIN MESAFESINI azaltmasi.
+==========================================================================
+  oyun     RND  BIRL  hip  cukur  birles  tutan  ilk sv@
+  vc33       0     1   12      0       0      0      174  <--
+  bp35       0     0   12     12       0      0        -
+  lp85       0     1   14      6       0      0      187  <--
+  m0r0       0     0    3     21       0      0        -
+
+  TOPLAM seviye: rastgele 0  ->  BIRLESIK 2   (2/4 ustun)

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# runtime outputs
+HAFIZA/
+VIDEO/_kare/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# editor / OS
+.DS_Store
+.idea/
+.vscode/

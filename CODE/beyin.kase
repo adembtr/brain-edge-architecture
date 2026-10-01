@@ -1,0 +1,951 @@
+{
+ "surum": 1,
+ "uzay": {
+  "eksenler": [
+   "x",
+   "y"
+  ]
+ },
+ "tipler": {
+  "0": 0,
+  "1": 1,
+  "3": 2,
+  "4": 0,
+  "5": 1,
+  "6": 3
+ },
+ "parcalar": {
+  "0": [
+   [
+    "hareket",
+    [
+     1,
+     0
+    ]
+   ],
+   [
+    "sayac",
+    0
+   ]
+  ],
+  "1": [
+   [
+    "hareket",
+    [
+     0,
+     0
+    ]
+   ],
+   [
+    "sayac",
+    0
+   ]
+  ],
+  "3": [
+   [
+    "hareket",
+    [
+     0,
+     0
+    ]
+   ],
+   [
+    "hareket",
+    [
+     1,
+     0
+    ]
+   ],
+   [
+    "sayac",
+    0
+   ],
+   [
+    "sayac",
+    1
+   ]
+  ],
+  "4": [
+   [
+    "hareket",
+    [
+     1,
+     0
+    ]
+   ],
+   [
+    "sayac",
+    0
+   ]
+  ],
+  "5": [
+   [
+    "hareket",
+    [
+     0,
+     0
+    ]
+   ],
+   [
+    "sayac",
+    0
+   ]
+  ],
+  "6": [
+   [
+    "hareket",
+    [
+     1,
+     0
+    ]
+   ],
+   [
+    "sayac",
+    1
+   ]
+  ]
+ },
+ "istatistik": {
+  "tik": 3999,
+  "dogum": 436,
+  "olum": 13,
+  "birlesme": 358,
+  "revizyon": 30,
+  "kapsama": 39
+ },
+ "noronlar": [
+  {
+   "hedef": "yer_degisimi",
+   "kenarlar": [
+    {
+     "phi": [
+      [
+       "eylem",
+       0
+      ]
+     ],
+     "psi": [
+      0,
+      -1
+     ],
+     "q": 1.0,
+     "p": 0.8014,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 629,
+     "gorulme": 996,
+     "dogdu": 0
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       1
+      ]
+     ],
+     "psi": [
+      0,
+      1
+     ],
+     "q": 0.4,
+     "p": 0.5676,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 696,
+     "gorulme": 998,
+     "dogdu": 0
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       2
+      ]
+     ],
+     "psi": [
+      -1,
+      0
+     ],
+     "q": 1.0,
+     "p": 0.7921,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 662,
+     "gorulme": 1005,
+     "dogdu": 0
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       3
+      ]
+     ],
+     "psi": [
+      0,
+      0
+     ],
+     "q": 1.0,
+     "p": 0.5,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 720,
+     "gorulme": 1001,
+     "dogdu": 0
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       1
+      ],
+      [
+       "hedef_tip",
+       1
+      ]
+     ],
+     "psi": [
+      0,
+      0
+     ],
+     "q": 1.0,
+     "p": 1.0,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 270,
+     "gorulme": 270,
+     "dogdu": 49
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       2
+      ],
+      [
+       "hedef_tip",
+       1
+      ]
+     ],
+     "psi": [
+      0,
+      0
+     ],
+     "q": 1.0,
+     "p": 1.0,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 310,
+     "gorulme": 310,
+     "dogdu": 74
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       0
+      ],
+      [
+       "hedef_tip",
+       1
+      ]
+     ],
+     "psi": [
+      0,
+      0
+     ],
+     "q": 1.0,
+     "p": 1.0,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 331,
+     "gorulme": 331,
+     "dogdu": 124
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       1
+      ],
+      [
+       "hedef_parca",
+       "hareket",
+       [
+        0,
+        0
+       ]
+      ]
+     ],
+     "psi": [
+      0,
+      0
+     ],
+     "q": 1.0,
+     "p": 0.9644,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 283,
+     "gorulme": 294,
+     "dogdu": 149
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       3
+      ],
+      [
+       "hedef_tip",
+       1
+      ]
+     ],
+     "psi": [
+      0,
+      0
+     ],
+     "q": 1.0,
+     "p": 1.0,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 247,
+     "gorulme": 247,
+     "dogdu": 199
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       2
+      ],
+      [
+       "hedef_parca",
+       "hareket",
+       [
+        0,
+        0
+       ]
+      ]
+     ],
+     "psi": [
+      0,
+      0
+     ],
+     "q": 1.0,
+     "p": 1.0,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 290,
+     "gorulme": 310,
+     "dogdu": 374
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       3
+      ],
+      [
+       "hedef_parca",
+       "hareket",
+       [
+        0,
+        0
+       ]
+      ]
+     ],
+     "psi": [
+      0,
+      0
+     ],
+     "q": 1.0,
+     "p": 0.9688,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 227,
+     "gorulme": 244,
+     "dogdu": 599
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       2
+      ],
+      [
+       "hedef_parca",
+       "hareket",
+       [
+        0,
+        0
+       ]
+      ],
+      [
+       "otesi_tip",
+       0
+      ]
+     ],
+     "psi": [
+      -1,
+      0
+     ],
+     "q": 1.0,
+     "p": 0.9629,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 16,
+     "gorulme": 16,
+     "dogdu": 1049
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       0
+      ],
+      [
+       "hedef_parca",
+       "hareket",
+       [
+        0,
+        0
+       ]
+      ]
+     ],
+     "psi": [
+      0,
+      0
+     ],
+     "q": 1.0,
+     "p": 0.8724,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 206,
+     "gorulme": 221,
+     "dogdu": 1399
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       3
+      ],
+      [
+       "hedef_parca",
+       "hareket",
+       [
+        0,
+        0
+       ]
+      ],
+      [
+       "otesi_tip",
+       0
+      ]
+     ],
+     "psi": [
+      1,
+      0
+     ],
+     "q": 1.0,
+     "p": 0.8638,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 8,
+     "gorulme": 8,
+     "dogdu": 1674
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       3
+      ],
+      [
+       "hedef_parca",
+       "hareket",
+       [
+        0,
+        0
+       ]
+      ],
+      [
+       "hedef_tip",
+       2
+      ],
+      [
+       "otesi_tip",
+       0
+      ]
+     ],
+     "psi": [
+      1,
+      0
+     ],
+     "q": 1.0,
+     "p": 0.8297,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 8,
+     "gorulme": 8,
+     "dogdu": 1699
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       3
+      ],
+      [
+       "hedef_parca",
+       "hareket",
+       [
+        0,
+        0
+       ]
+      ],
+      [
+       "hedef_tip",
+       2
+      ],
+      [
+       "otesi_tip",
+       1
+      ]
+     ],
+     "psi": [
+      0,
+      0
+     ],
+     "q": 1.0,
+     "p": 0.6929,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 3,
+     "gorulme": 3,
+     "dogdu": 1699
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       0
+      ],
+      [
+       "hedef_tip",
+       0
+      ]
+     ],
+     "psi": [
+      0,
+      -1
+     ],
+     "q": 1.0,
+     "p": 1.0,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 295,
+     "gorulme": 295,
+     "dogdu": 2024
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       0
+      ],
+      [
+       "hedef_parca",
+       "hareket",
+       [
+        1,
+        0
+       ]
+      ]
+     ],
+     "psi": [
+      0,
+      -1
+     ],
+     "q": 1.0,
+     "p": 0.8725,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 231,
+     "gorulme": 237,
+     "dogdu": 2524
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       1
+      ],
+      [
+       "hedef_tip",
+       0
+      ]
+     ],
+     "psi": [
+      0,
+      1
+     ],
+     "q": 1.0,
+     "p": 1.0,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 172,
+     "gorulme": 172,
+     "dogdu": 2949
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       0
+      ],
+      [
+       "otesi_parca",
+       "hareket",
+       [
+        1,
+        0
+       ]
+      ]
+     ],
+     "psi": [
+      0,
+      -1
+     ],
+     "q": 1.0,
+     "p": 0.9766,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 91,
+     "gorulme": 100,
+     "dogdu": 3124
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       2
+      ],
+      [
+       "hedef_parca",
+       "hareket",
+       [
+        1,
+        0
+       ]
+      ]
+     ],
+     "psi": [
+      -1,
+      0
+     ],
+     "q": 1.0,
+     "p": 1.0,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 108,
+     "gorulme": 109,
+     "dogdu": 3349
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       3
+      ],
+      [
+       "hedef_parca",
+       "hareket",
+       [
+        1,
+        0
+       ]
+      ]
+     ],
+     "psi": [
+      1,
+      0
+     ],
+     "q": 1.0,
+     "p": 1.0,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 113,
+     "gorulme": 114,
+     "dogdu": 3349
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       1
+      ],
+      [
+       "hedef_parca",
+       "hareket",
+       [
+        1,
+        0
+       ]
+      ]
+     ],
+     "psi": [
+      0,
+      1
+     ],
+     "q": 1.0,
+     "p": 0.9964,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 103,
+     "gorulme": 105,
+     "dogdu": 3374
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       2
+      ],
+      [
+       "hedef_tip",
+       0
+      ]
+     ],
+     "psi": [
+      -1,
+      0
+     ],
+     "q": 1.0,
+     "p": 1.0,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 87,
+     "gorulme": 87,
+     "dogdu": 3449
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       3
+      ],
+      [
+       "hedef_parca",
+       "hareket",
+       [
+        0,
+        0
+       ]
+      ],
+      [
+       "otesi_tip",
+       1
+      ]
+     ],
+     "psi": [
+      0,
+      0
+     ],
+     "q": 1.0,
+     "p": 0.998,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 29,
+     "gorulme": 29,
+     "dogdu": 3449
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       3
+      ],
+      [
+       "hedef_parca",
+       "hareket",
+       [
+        0,
+        0
+       ]
+      ],
+      [
+       "otesi_parca",
+       "hareket",
+       [
+        1,
+        0
+       ]
+      ]
+     ],
+     "psi": [
+      1,
+      0
+     ],
+     "q": 0.8,
+     "p": 0.575,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 1,
+     "gorulme": 1,
+     "dogdu": 3449
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       3
+      ],
+      [
+       "hedef_tip",
+       0
+      ]
+     ],
+     "psi": [
+      1,
+      0
+     ],
+     "q": 1.0,
+     "p": 1.0,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 81,
+     "gorulme": 81,
+     "dogdu": 3474
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       0
+      ],
+      [
+       "hedef_tip",
+       1
+      ],
+      [
+       "otesi_parca",
+       "hareket",
+       [
+        1,
+        0
+       ]
+      ]
+     ],
+     "psi": [
+      0,
+      0
+     ],
+     "q": 1.0,
+     "p": 0.7781,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 5,
+     "gorulme": 5,
+     "dogdu": 3574
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       0
+      ],
+      [
+       "hedef_parca",
+       "hareket",
+       [
+        0,
+        0
+       ]
+      ],
+      [
+       "hedef_tip",
+       1
+      ],
+      [
+       "otesi_tip",
+       0
+      ]
+     ],
+     "psi": [
+      0,
+      0
+     ],
+     "q": 1.0,
+     "p": 0.6387,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 2,
+     "gorulme": 2,
+     "dogdu": 3824
+    },
+    {
+     "phi": [
+      [
+       "eylem",
+       0
+      ],
+      [
+       "hedef_tip",
+       0
+      ],
+      [
+       "otesi_parca",
+       "hareket",
+       [
+        1,
+        0
+       ]
+      ]
+     ],
+     "psi": [
+      0,
+      -1
+     ],
+     "q": 1.0,
+     "p": 0.9724,
+     "N": 4.0,
+     "Nmax": 4.0,
+     "uses": 0,
+     "hits": 15,
+     "gorulme": 15,
+     "dogdu": 3899
+    }
+   ]
+  }
+ ]
+}

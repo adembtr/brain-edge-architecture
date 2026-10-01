@@ -1,0 +1,127 @@
+{
+ "ar25": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 4
+ },
+ "bp35": {
+  "rnd": 0,
+  "hedef": 1,
+  "tutan": 4
+ },
+ "cd82": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 3
+ },
+ "cn04": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 2
+ },
+ "dc22": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 4
+ },
+ "ft09": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 2
+ },
+ "g50t": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 2
+ },
+ "ka59": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 11
+ },
+ "lf52": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 2
+ },
+ "lp85": {
+  "rnd": 0,
+  "hedef": 1,
+  "tutan": 0
+ },
+ "ls20": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 2
+ },
+ "m0r0": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 1
+ },
+ "r11l": {
+  "rnd": 1,
+  "hedef": 1,
+  "tutan": 4
+ },
+ "re86": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 5
+ },
+ "s5i5": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 2
+ },
+ "sb26": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 0
+ },
+ "sc25": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 2
+ },
+ "sk48": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 10
+ },
+ "sp80": {
+  "rnd": 1,
+  "hedef": 1,
+  "tutan": 4
+ },
+ "su15": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 3
+ },
+ "tn36": {
+  "rnd": 0,
+  "hedef": 1,
+  "tutan": 4
+ },
+ "tr87": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 1
+ },
+ "tu93": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 2
+ },
+ "vc33": {
+  "rnd": 0,
+  "hedef": 1,
+  "tutan": 0
+ },
+ "wa30": {
+  "rnd": 0,
+  "hedef": 0,
+  "tutan": 5
+ }
+}

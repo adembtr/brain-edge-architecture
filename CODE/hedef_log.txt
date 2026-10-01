@@ -1,0 +1,10 @@
+============================================================================
+HEDEF HIPOTEZI — ilk kareden, EYLEM YAPMADAN, saf geometriyle
+(DEVIR.md §3: 'ajan bunu henuz taklit etmiyor')
+============================================================================
+  oyun     RND  HEDEF  hipotez  tutan  en_iyi_q  ilk sv@
+  ar25       0      0        9      4      0.00        -
+  bp35     HATA KeyError: 'esitle(3, 0)(10, 4)'
+  cd82       0      0       12      3      0.00        -
+  cn04       0      0        9      2      0.38        -
+  dc22       0      0        9      4      0.13        -

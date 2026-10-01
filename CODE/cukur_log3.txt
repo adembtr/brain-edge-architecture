@@ -1,0 +1,7 @@
+====================================================================================
+CUKUR — isleyen her eylem dizisi bir cukur. Cukurlar birlesir.
+Tek amac DEGISIM. Odul yok, 'dogru' yok, 'seviye' kelimesi karar
+kodunda gecmiyor. 800 eylem/oyun, 2 tohum.
+====================================================================================
+  oyun     RND  CUKUR  cukur#  dogum  birles  zincir  en_uzun  en_deg  ilk sv@
+  ar25       0      0      53     45      23       0        8     772        -

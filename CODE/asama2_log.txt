@@ -1,0 +1,15 @@
+==============================================================================
+2. ASAMA — butce 3000 (onceki testler 800'du)
+Soru: seviye 1'den sonra DEVAM edebiliyor muyuz?
+==============================================================================
+  oyun     RND  CUKUR    sv@  HEDEF2  sv_say    sv@
+  vc33       0      1    286       1       1    436
+  tn36       0      1     41       1       1     39
+  r11l       1      1     70       1       1      6
+  sp80       1      0      -       1       1    110
+  lp85       1      1     34       0       0      -
+  bp35       0      0      -       0       0      -
+  cd82       1      0      -       1       1    360
+  m0r0       1      0      -       0       0      -
+
+  TOPLAM: rastgele 5  cukur 4  hedef2 5   (butce 3000)

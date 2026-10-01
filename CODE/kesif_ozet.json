@@ -1,0 +1,30 @@
+{
+ "vc33": {
+  "rastgele": 0,
+  "kesif": 1,
+  "etki": 4,
+  "baglam": 66,
+  "ilk": 24
+ },
+ "cd82": {
+  "rastgele": 0,
+  "kesif": 0,
+  "etki": 4,
+  "baglam": 95,
+  "ilk": -1
+ },
+ "r11l": {
+  "rastgele": 1,
+  "kesif": 1,
+  "etki": 21,
+  "baglam": 1367,
+  "ilk": 77
+ },
+ "tn36": {
+  "rastgele": 0,
+  "kesif": 1,
+  "etki": 6,
+  "baglam": 128,
+  "ilk": 89
+ }
+}

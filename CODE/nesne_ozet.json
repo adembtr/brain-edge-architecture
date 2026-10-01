@@ -1,0 +1,152 @@
+{
+ "ar25": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 44,
+  "etki": 4
+ },
+ "bp35": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 43,
+  "etki": 4
+ },
+ "cd82": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 47,
+  "etki": 5
+ },
+ "cn04": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 25,
+  "etki": 3
+ },
+ "dc22": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 27,
+  "etki": 6
+ },
+ "ft09": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 24,
+  "etki": 2
+ },
+ "g50t": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 39,
+  "etki": 5
+ },
+ "ka59": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 47,
+  "etki": 6
+ },
+ "lf52": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 48,
+  "etki": 3
+ },
+ "lp85": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 17,
+  "etki": 2
+ },
+ "ls20": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 39,
+  "etki": 5
+ },
+ "m0r0": {
+  "rnd": 0,
+  "nesne": 1,
+  "token": 15,
+  "etki": 4
+ },
+ "r11l": {
+  "rnd": 1,
+  "nesne": 1,
+  "token": 200,
+  "etki": 6
+ },
+ "re86": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 43,
+  "etki": 4
+ },
+ "s5i5": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 40,
+  "etki": 3
+ },
+ "sb26": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 33,
+  "etki": 3
+ },
+ "sc25": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 47,
+  "etki": 6
+ },
+ "sk48": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 45,
+  "etki": 6
+ },
+ "sp80": {
+  "rnd": 1,
+  "nesne": 1,
+  "token": 32,
+  "etki": 5
+ },
+ "su15": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 13,
+  "etki": 4
+ },
+ "tn36": {
+  "rnd": 0,
+  "nesne": 1,
+  "token": 42,
+  "etki": 4
+ },
+ "tr87": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 52,
+  "etki": 3
+ },
+ "tu93": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 26,
+  "etki": 3
+ },
+ "vc33": {
+  "rnd": 0,
+  "nesne": 1,
+  "token": 31,
+  "etki": 3
+ },
+ "wa30": {
+  "rnd": 0,
+  "nesne": 0,
+  "token": 34,
+  "etki": 5
+ }
+}

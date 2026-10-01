@@ -1,0 +1,50 @@
+{
+ "vc33": {
+  "rnd": 0,
+  "cukur": 1,
+  "hedef2": 1,
+  "sv_say": 1
+ },
+ "tn36": {
+  "rnd": 0,
+  "cukur": 1,
+  "hedef2": 1,
+  "sv_say": 1
+ },
+ "r11l": {
+  "rnd": 1,
+  "cukur": 1,
+  "hedef2": 1,
+  "sv_say": 1
+ },
+ "sp80": {
+  "rnd": 1,
+  "cukur": 0,
+  "hedef2": 1,
+  "sv_say": 1
+ },
+ "lp85": {
+  "rnd": 1,
+  "cukur": 1,
+  "hedef2": 0,
+  "sv_say": 0
+ },
+ "bp35": {
+  "rnd": 0,
+  "cukur": 0,
+  "hedef2": 0,
+  "sv_say": 0
+ },
+ "cd82": {
+  "rnd": 1,
+  "cukur": 0,
+  "hedef2": 1,
+  "sv_say": 1
+ },
+ "m0r0": {
+  "rnd": 1,
+  "cukur": 0,
+  "hedef2": 0,
+  "sv_say": 0
+ }
+}

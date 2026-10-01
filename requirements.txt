@@ -1,0 +1,8 @@
+numpy>=1.26
+pillow>=10        # only for CODE/kayit.py (video frames); kayit.py also calls ffmpeg
+
+# Real-game runs (hedef*.py, cukur.py, kesif.py, nesne.py, kayit.py, test_kademe.py,
+# test_baglam.py) additionally need:
+#   - a clone of https://github.com/adembtr/arc-agi3-agent  (AGI_DIR)
+#   - the ARC-AGI-3 toolkit:  arc-agi>=0.9.1
+#   - the public ARC-AGI-3 game files                    (ENVIRONMENTS_DIR)

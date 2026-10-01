@@ -1,0 +1,127 @@
+{
+ "ar25": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "hizala"
+ },
+ "bp35": {
+  "rnd": 0,
+  "h2": 1,
+  "tur": "temizle"
+ },
+ "cd82": {
+  "rnd": 0,
+  "h2": 1,
+  "tur": "birlestir"
+ },
+ "cn04": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "hizala"
+ },
+ "dc22": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "esitle"
+ },
+ "ft09": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "temizle"
+ },
+ "g50t": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "esitle"
+ },
+ "ka59": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "birlestir"
+ },
+ "lf52": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "temizle"
+ },
+ "lp85": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "temizle"
+ },
+ "ls20": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "birlestir"
+ },
+ "m0r0": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "birlestir"
+ },
+ "r11l": {
+  "rnd": 1,
+  "h2": 1,
+  "tur": "cogalt"
+ },
+ "re86": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "cogalt"
+ },
+ "s5i5": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "hizala"
+ },
+ "sb26": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "esitle"
+ },
+ "sc25": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "esitle"
+ },
+ "sk48": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "temizle"
+ },
+ "sp80": {
+  "rnd": 1,
+  "h2": 1,
+  "tur": "esitle"
+ },
+ "su15": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "temizle"
+ },
+ "tn36": {
+  "rnd": 0,
+  "h2": 1,
+  "tur": "temizle"
+ },
+ "tr87": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "birlestir"
+ },
+ "tu93": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "esitle"
+ },
+ "vc33": {
+  "rnd": 0,
+  "h2": 1,
+  "tur": "temizle"
+ },
+ "wa30": {
+  "rnd": 0,
+  "h2": 0,
+  "tur": "esitle"
+ }
+}
